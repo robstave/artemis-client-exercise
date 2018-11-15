@@ -21,8 +21,7 @@ Or you can run the broker in the background using:
 
 ## Part one - Stomp-client
 
-See part1
-
+Using node.js _stomp-client_
 
 Get dependancies
 ```
@@ -44,7 +43,4 @@ It seems to time out though after a minute or two
 
 ## Part 2
 
-
-
-This is very terse
-I will replace with stomp-it
+Same basic exercise, but with stomp-it
