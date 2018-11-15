@@ -1,6 +1,9 @@
 Excercises to learn Artemis
 ==============
 
+You need to install ActiveMQ and set up with
+admin:abc123
+
 Part one
 
 there is a client and a server
