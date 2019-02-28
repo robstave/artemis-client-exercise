@@ -1,9 +1,10 @@
 # Excercises to learn Artemis
-==============
 
-You need to install ActiveMQ (Artemis)
-download and unzip then create a broker in your lib.
-I like to install in ~/lib
+
+You need to install ActiveMQ (Artemis).
+
+Download and unzip then create a broker in your lib.
+I like to install in ~/lib  (details left as an exercise to the reader)
 
 I assume a user with: *admin:abc123*
 
@@ -19,7 +20,12 @@ Or you can run the broker in the background using:
    ~/lib/mybroker/bin/artemis-service start
 ```
 
+
+
+
 ## Part one - Stomp-client
+
+Simple test where there is a server and a Client
 
 Using node.js _stomp-client_
 
@@ -44,3 +50,9 @@ It seems to time out though after a minute or two
 ## Part 2
 
 Same basic exercise, but with stomp-it
+
+## Part 3 - TODO
+Scheduled messages
+http://activemq.apache.org/nms/stomp-delayed-and-scheduled-message-feature.html
+
+
